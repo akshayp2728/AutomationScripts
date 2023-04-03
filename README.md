@@ -1,2 +1,2 @@
 # AutomationScripts
-Storing the automation scripts
+Storing the automation scripts.
