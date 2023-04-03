@@ -1,0 +1,3 @@
+Git Commands
+git init
+git remote add origin "https link of repo
