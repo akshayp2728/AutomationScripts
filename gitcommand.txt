@@ -1,3 +1,3 @@
-Git add1
+Git add
 git rm1
 git remote add origin "https link of repo
